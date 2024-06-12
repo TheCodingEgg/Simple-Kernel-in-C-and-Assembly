@@ -13,6 +13,7 @@ Before writing the kernel, make sure that the following tools are available in y
 <li>gcc</li>
 <li>ld (GNU Linker)</li>
 <li>grub</li>
+<li>QEMU</li>
 </ul>
 
 ##Let's start coding
